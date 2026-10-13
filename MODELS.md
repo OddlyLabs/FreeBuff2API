@@ -1,4 +1,4 @@
-# Freebuff 可用模型（2026-10-13 21:59:40 北京时间）
+# Freebuff 可用模型（2026-10-14 06:32:36 北京时间）
 
 > 自动生成 · 来源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) main · 更新频率：每 6 小时
 
@@ -21,6 +21,7 @@
 - `google/gemini-3.6-flash` —— google/gemini-3.6-flash
 - `google/gemini-3.7-flash` —— google/gemini-3.7-flash
 - `google/gemini-3.8-flash` —— google/gemini-3.8-flash
+- `google/gemini-4-argon` —— google/gemini-4-argon
 - `meta-llama/llama-4-maverick` —— meta-llama/llama-4-maverick
 - `meta/muse-spark-1.2-contributor` —— Muse Spark 1.2（Meta 开发者专属，限量）
 - `meta/muse-spark-1.3-contributor` —— meta/muse-spark-1.3-contributor
@@ -78,4 +79,4 @@
 - `z-ai/glm-5.2` —— GLM 5.2（智谱 AI，推荐解锁后使用）
 
 ---
-共 55 个模型 · 上次更新：2026-10-13 21:59:40
+共 56 个模型 · 上次更新：2026-10-14 06:32:36
