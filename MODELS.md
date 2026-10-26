@@ -1,4 +1,4 @@
-# Freebuff 可用模型（2026-10-26 20:42:32 北京时间）
+# Freebuff 可用模型（2026-10-27 06:33:13 北京时间）
 
 > 自动生成 · 来源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) main · 更新频率：每 6 小时
 
@@ -45,6 +45,7 @@
 - `openai/gpt-6-sol` —— openai/gpt-6-sol
 - `openai/gpt-6-sol-pro` —— openai/gpt-6-sol-pro
 - `openai/gpt-6.1-sol` —— openai/gpt-6.1-sol
+- `openai/gpt-6.1-terra` —— openai/gpt-6.1-terra
 - `openai/o3-pro` —— openai/o3-pro
 - `qwen/qwen3.6-max-preview` —— qwen/qwen3.6-max-preview
 - `qwen/qwen3.6-plus` —— qwen/qwen3.6-plus
@@ -79,4 +80,4 @@
 - `z-ai/glm-5.2` —— GLM 5.2（智谱 AI，推荐解锁后使用）
 
 ---
-共 56 个模型 · 上次更新：2026-10-26 20:42:32
+共 57 个模型 · 上次更新：2026-10-27 06:33:13

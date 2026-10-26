@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:42:32.266Z",
+  "generatedAt": "2026-10-26T22:33:13.503Z",
   "source": "CodebuffAI/freebuff main",
   "models": [
     {
@@ -28,6 +28,15 @@
       "base3_agent": "base3-free-gpt-6-1-sol",
       "reviewer_agent": "code-reviewer-gpt-6-1-sol",
       "upstream": "openai/gpt-6.1-sol"
+    },
+    {
+      "id": "openai/gpt-6.1-terra",
+      "session": "openai/gpt-6.1-terra",
+      "agent": "base2-free-gpt-6-1-terra",
+      "root_agent": "base2-free-gpt-6-1-terra",
+      "base3_agent": "base3-free-gpt-6-1-terra",
+      "reviewer_agent": "code-reviewer-gpt-6-1-terra",
+      "upstream": "openai/gpt-6.1-terra"
     },
     {
       "id": "google/gemini-4-argon",
@@ -514,6 +523,7 @@
       "mimo/mimo-v2.5",
       "openai/gpt-6-luna",
       "openai/gpt-6.1-sol",
+      "openai/gpt-6.1-terra",
       "google/gemini-4-argon",
       "deepseek/deepseek-v4-flash",
       "deepseek/deepseek-v4-flash-fast",
