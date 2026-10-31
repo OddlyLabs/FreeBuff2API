@@ -5,10 +5,10 @@
 </p>
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
-[![Quality checks](https://github.com/wintopic/FreeBuff2API/actions/workflows/quality.yml/badge.svg)](https://github.com/wintopic/FreeBuff2API/actions/workflows/quality.yml)
+[![Quality checks](https://github.com/OddlyLabs/FreeBuff2API/actions/workflows/quality.yml/badge.svg)](https://github.com/OddlyLabs/FreeBuff2API/actions/workflows/quality.yml)
 [![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A524.0-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI%20compatible-412991?logo=openai&logoColor=white)](#api-与调用示例)
-[![GitHub stars](https://img.shields.io/github/stars/wintopic/FreeBuff2API?style=social)](https://github.com/wintopic/FreeBuff2API)
+[![GitHub stars](https://img.shields.io/github/stars/OddlyLabs/FreeBuff2API?style=social)](https://github.com/OddlyLabs/FreeBuff2API)
 
 一个本地优先的 FreeBuff 模型兼容网关。
 
@@ -103,7 +103,7 @@ OpenAI SDK / Anthropic SDK / 常见客户端
 本地无 Docker 方式需要 Node.js 24。Node 24 提供 `--use-env-proxy`，可直接读取 `.env` 中的本机代理设置。
 
 ```powershell
-git clone https://github.com/wintopic/FreeBuff2API.git
+git clone https://github.com/OddlyLabs/FreeBuff2API.git
 Set-Location FreeBuff2API
 Copy-Item .env.example .env
 ```

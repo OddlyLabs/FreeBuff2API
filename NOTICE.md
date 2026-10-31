@@ -4,7 +4,7 @@ FreeBuff2API is distributed under the [GNU Affero General Public License v3.0](L
 
 Copyright notices retained for this project and the work it builds upon:
 
-- Copyright © 2026 wintopic
+- Copyright © 2026 OddlyLabs
 - Copyright © 2026 pingmike2
 - Copyright © XxxXTeam contributors, [`freebuff2api`](https://github.com/XxxXTeam/freebuff2api)
 

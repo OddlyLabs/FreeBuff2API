@@ -37,7 +37,7 @@ const DYNAMIC_MODELS_STABLE_IDS_SOURCES = [
 // 当官方 3 个源全部失败/解析失败时使用。固定 models-cache tag，避免版本 Release
 // 改变 releases/latest 指向后导致模型快照 404。
 const DYNAMIC_MODELS_RELEASE_SOURCES = [
-  "https://github.com/wintopic/FreeBuff2API/releases/download/models-cache/freebuff-models.json",
+  "https://github.com/OddlyLabs/FreeBuff2API/releases/download/models-cache/freebuff-models.json",
 ];
 // 刷新间隔：与 Quorinex 对齐，6 小时。失败时回退到硬编码 MODELS。
 const DYNAMIC_MODELS_REFRESH_MS = 6 * 60 * 60 * 1000;
